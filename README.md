@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruben.</h1>
+<h1 align="center">Hi, my name is Ruben.</h1>
 <h3 align="center">Someone who enjoys (learning) to code on their free time. Striving to put out some greatness into the world, one project at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rxality&label=Profile%20views&color=0e75b6&style=flat" alt="rxality" /> </p>
