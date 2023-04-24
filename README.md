@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ruben</h1>
 
-<h3 align="center">A young and passionate self-taught developer.</h3>
+<h3 align="center">
+    A young and passionate self-taught developer.
+    <br>
+    Married 6/26/23 to the love of my life.
+    <br>
+    I love to code and learn new things.
+    <br>
+    I am looking to collaborate on any project.
+
+</h3>
 
 <p align="center"> 
     <img src="https://img.shields.io/badge/Age-21-blue"/>
