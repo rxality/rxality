@@ -41,8 +41,8 @@
     │
     ├── fun facts/
     │   ├── 💍 Married June, 26, 2023
-    │   ├── ⚔️ Almost 1k hours on Dark Soul 3
-    │   └── 😵‍💫 Halfway through One Piece
+    │   ├── ⚔️ Avid Souls enjoyer
+    │   └── 😵‍💫 Tendency to make free projects for people
     │
     └── interests/
         ├── 💻 Programming
