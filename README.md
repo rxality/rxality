@@ -37,17 +37,16 @@
 └── about me/
     │
     ├── age/
-    │   └── 22 years old
+    │   └── 23 years old
     │
     ├── fun facts/
     │   ├── 💍 Married June, 26, 2023
-    │   ├── ⚔️ Avid Souls enjoyer
-    │   └── 😵‍💫 Tendency to make free projects for people
+    │   └── ⚔️ Avid Souls enjoyer
     │
     └── interests/
         ├── 💻 Programming
         ├── 🎮 Playing video games
-        └── 🎌 Watching anime and reading manga
+        └── 🎌 Watching anime
 ```
 
 ---
